@@ -1,2 +1,2 @@
-"version": "1.0.1",
-"url": "https://example.com/downloads/PosterApp_v1.0.2.exe"
+"version": "1.0.2",
+"url": "https://github.com/PhoneExcahngeNSW/AutoAds/edit/main/AutoAds.exe"
